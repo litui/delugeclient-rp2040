@@ -9,4 +9,4 @@ As it currently stands, this only supports OLED messages and will attempt to sen
 - 7seg rendering
 - Specific midi device detection
 - Debug messages
-
+- Support for more generic hardware (I just used what I had on hand).
